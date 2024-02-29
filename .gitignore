@@ -1,2 +1,5 @@
+# c
 **/*.o
 **/a.out
+# java
+**/*.class
