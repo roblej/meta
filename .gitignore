@@ -1,5 +1,11 @@
 # c
 **/*.o
 **/a.out
+
 # java
 **/*.class
+
+#scala
+scala/**/project
+scala/**/target
+
